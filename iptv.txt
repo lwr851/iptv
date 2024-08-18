@@ -190,9 +190,11 @@ http://185.81.28.58/🍉.php?🍉=42
 #EXTINF:-1 tvg-name="AXN电影台" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="港台频道",AXN电影台
 http://185.81.28.58/🍉.php?🍉=44
 
-#EXTINF:-1 tvg-name="TVN电影台" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="港台频道",TVN电影台
+#EXTINF:-1 tvg-name="TVN电影台" tvg-logo="https://live.fanmingming.com/tv/HBOsignature.png" group-title="港台频道",TVN电影台
 http://185.81.28.58/🍉.php?🍉=48
 
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="港台频道",东森电影台
+http://185.81.28.58/🍉.php?🍉=101
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视秒开",CCTV-1 综合
 http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/523/2024078203.m3u8

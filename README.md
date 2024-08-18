@@ -25,4 +25,4 @@ https://ghproxy.net/https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/
 鸣谢:
 脚本来源: https://github.com/AutoIPTV-Hotel 
 
-         https://github.com/fanmingming/live
+        https://github.com/fanmingming/live

@@ -41,7 +41,6 @@ http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/780/2024081303.m3u8
 http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/418/2020603421.m3u8
 
 
-
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -187,6 +186,12 @@ http://185.81.28.58/🍉.php?🍉=41
 
 #EXTINF:-1 tvg-name="HBO原创台" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="港台频道",HBO原创台
 http://185.81.28.58/🍉.php?🍉=42
+
+#EXTINF:-1 tvg-name="AXN电影台" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="港台频道",AXN电影台
+http://185.81.28.58/🍉.php?🍉=44
+
+#EXTINF:-1 tvg-name="TVN电影台" tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="港台频道",TVN电影台
+http://185.81.28.58/🍉.php?🍉=48
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视秒开",CCTV-1 综合

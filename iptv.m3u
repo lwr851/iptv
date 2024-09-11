@@ -35,7 +35,10 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
+#EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="央视频道",CCTV-4k 超高清
+http://218.18.4.142:8888/udp/239.77.0.194:5146
+#EXTINF:-1 tvg-name="CCTV4k" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="央视频道",CCTV-4k 超高清
+http://218.18.4.142:8888/udp/239.77.0.174:5146
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
